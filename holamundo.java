@@ -8,6 +8,6 @@
 
 int main(void){
 
-printf("Hola mundo elaborado por EduardooOoO"\n);
+printf("Hola mundo elaborado por EduardooOoO 88"\n);
 return 0;
 }
