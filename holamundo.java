@@ -1,4 +1,3 @@
-
 //programa hola mundo
 //autor Eduardo 
 //fecha 2/05/2013
@@ -9,6 +8,6 @@
 
 int main(void){
 
-printf("Hola mundo remoto"\n);
+printf("Hola mundo elaborado por EduardooOoO"\n);
 return 0;
 }
